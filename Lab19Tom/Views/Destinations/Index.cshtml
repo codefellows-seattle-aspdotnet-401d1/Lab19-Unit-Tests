@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Lab19Tom.Models.Destinations>
+
+@foreach (var d in Model)
+{
+    <div>
+        <h3>@d.Destination</h3>
+        <p>@d.Tops</p>
+        <p>@d.Bottoms</p>
+        <p>@d.Footwear</p>
+        <p>@d.Sunscreen</p>
+    </div>
+}

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Lab19Tom.Models
 {
-    public class DummyDestinationsRepository
+    public class DummyDestinationsRepository : IDestinationsRepository
     {
         public IEnumerable<Destinations> Destinations => new List<Destinations>
         {
