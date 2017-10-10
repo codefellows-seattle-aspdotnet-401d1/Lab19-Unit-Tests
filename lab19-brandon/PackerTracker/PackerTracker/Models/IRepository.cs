@@ -2,7 +2,7 @@
 
 namespace PackerTracker.Models
 {
-    interface IRepository
+    public interface IRepository
     {
         IEnumerable<Destination> Destination { get; }
     }
