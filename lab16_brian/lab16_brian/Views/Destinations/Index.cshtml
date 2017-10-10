@@ -1,0 +1,10 @@
+﻿@model IEnumerable<lab16_brian.Models.Destination>
+@{
+    Layout = null;
+}
+@foreach (var d in Model)
+{
+    <h3>Destination: @d.Dest</h3>
+    <p>Footwear: @d.Footware</p>
+    <p>Should your bring something to swim in? @d.Swimwwear</p>
+}
