@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Lab19UnitTests.Models.Destination>
+
+@{
+    Layout = null;
+}
+
+
+@foreach (var d in Model)
+{
+    <div>
+        <h3>@d.LocationName</h3>
+        <img src= @d.PosterPath style="width:304px;">
+        <p>@d.Description</p>
+        <p>Distance: @d.Distance</p>
+    </div>
+
+}

@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\Lab19-Unit-Tests\Lab19UnitTests\bin\Debug\netcoreapp2.0\Lab19UnitTests.deps.json
+C:\Users\acohr\source\repos\Lab19-Unit-Tests\Lab19UnitTests\bin\Debug\netcoreapp2.0\Lab19UnitTests.runtimeconfig.json
+C:\Users\acohr\source\repos\Lab19-Unit-Tests\Lab19UnitTests\bin\Debug\netcoreapp2.0\Lab19UnitTests.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\Lab19-Unit-Tests\Lab19UnitTests\bin\Debug\netcoreapp2.0\Lab19UnitTests.dll
+C:\Users\acohr\source\repos\Lab19-Unit-Tests\Lab19UnitTests\bin\Debug\netcoreapp2.0\Lab19UnitTests.pdb
+C:\Users\acohr\source\repos\Lab19-Unit-Tests\Lab19UnitTests\obj\Debug\netcoreapp2.0\Lab19UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\Lab19-Unit-Tests\Lab19UnitTests\obj\Debug\netcoreapp2.0\Lab19UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\Lab19-Unit-Tests\Lab19UnitTests\obj\Debug\netcoreapp2.0\Lab19UnitTests.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\Lab19-Unit-Tests\Lab19UnitTests\obj\Debug\netcoreapp2.0\Lab19UnitTests.AssemblyInfo.cs
+C:\Users\acohr\source\repos\Lab19-Unit-Tests\Lab19UnitTests\obj\Debug\netcoreapp2.0\Lab19UnitTests.dll
+C:\Users\acohr\source\repos\Lab19-Unit-Tests\Lab19UnitTests\obj\Debug\netcoreapp2.0\Lab19UnitTests.pdb
