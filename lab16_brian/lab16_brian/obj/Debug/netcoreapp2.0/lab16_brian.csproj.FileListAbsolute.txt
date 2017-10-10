@@ -1,0 +1,11 @@
+C:\projects\401d1\Labs\lab16_brian\lab16_brian\lab16_brian\bin\Debug\netcoreapp2.0\lab16_brian.deps.json
+C:\projects\401d1\Labs\lab16_brian\lab16_brian\lab16_brian\bin\Debug\netcoreapp2.0\lab16_brian.runtimeconfig.json
+C:\projects\401d1\Labs\lab16_brian\lab16_brian\lab16_brian\bin\Debug\netcoreapp2.0\lab16_brian.runtimeconfig.dev.json
+C:\projects\401d1\Labs\lab16_brian\lab16_brian\lab16_brian\bin\Debug\netcoreapp2.0\lab16_brian.dll
+C:\projects\401d1\Labs\lab16_brian\lab16_brian\lab16_brian\bin\Debug\netcoreapp2.0\lab16_brian.pdb
+C:\projects\401d1\Labs\lab16_brian\lab16_brian\lab16_brian\obj\Debug\netcoreapp2.0\lab16_brian.csprojResolveAssemblyReference.cache
+C:\projects\401d1\Labs\lab16_brian\lab16_brian\lab16_brian\obj\Debug\netcoreapp2.0\lab16_brian.csproj.CoreCompileInputs.cache
+C:\projects\401d1\Labs\lab16_brian\lab16_brian\lab16_brian\obj\Debug\netcoreapp2.0\lab16_brian.AssemblyInfoInputs.cache
+C:\projects\401d1\Labs\lab16_brian\lab16_brian\lab16_brian\obj\Debug\netcoreapp2.0\lab16_brian.AssemblyInfo.cs
+C:\projects\401d1\Labs\lab16_brian\lab16_brian\lab16_brian\obj\Debug\netcoreapp2.0\lab16_brian.dll
+C:\projects\401d1\Labs\lab16_brian\lab16_brian\lab16_brian\obj\Debug\netcoreapp2.0\lab16_brian.pdb
