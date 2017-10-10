@@ -1,0 +1,14 @@
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\bin\Debug\netcoreapp2.0\MyGUnitTests.deps.json
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\bin\Debug\netcoreapp2.0\MyGUnitTests.runtimeconfig.json
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\bin\Debug\netcoreapp2.0\MyGUnitTests.runtimeconfig.dev.json
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\bin\Debug\netcoreapp2.0\MyGUnitTests.dll
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\bin\Debug\netcoreapp2.0\MyGUnitTests.pdb
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\obj\Debug\netcoreapp2.0\MyGUnitTests.csprojResolveAssemblyReference.cache
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\obj\Debug\netcoreapp2.0\MyGUnitTests.csproj.CoreCompileInputs.cache
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\obj\Debug\netcoreapp2.0\MyGUnitTests.AssemblyInfoInputs.cache
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\obj\Debug\netcoreapp2.0\MyGUnitTests.AssemblyInfo.cs
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\obj\Debug\netcoreapp2.0\MyGUnitTests.dll
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\obj\Debug\netcoreapp2.0\MyGUnitTests.pdb
