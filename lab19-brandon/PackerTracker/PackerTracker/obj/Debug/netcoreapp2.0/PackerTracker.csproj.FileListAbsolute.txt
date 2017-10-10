@@ -1,0 +1,11 @@
+C:\Users\akure\source\repos\Lab19-Unit-Tests\lab19-brandon\PackerTracker\PackerTracker\bin\Debug\netcoreapp2.0\PackerTracker.deps.json
+C:\Users\akure\source\repos\Lab19-Unit-Tests\lab19-brandon\PackerTracker\PackerTracker\bin\Debug\netcoreapp2.0\PackerTracker.runtimeconfig.json
+C:\Users\akure\source\repos\Lab19-Unit-Tests\lab19-brandon\PackerTracker\PackerTracker\bin\Debug\netcoreapp2.0\PackerTracker.runtimeconfig.dev.json
+C:\Users\akure\source\repos\Lab19-Unit-Tests\lab19-brandon\PackerTracker\PackerTracker\bin\Debug\netcoreapp2.0\PackerTracker.dll
+C:\Users\akure\source\repos\Lab19-Unit-Tests\lab19-brandon\PackerTracker\PackerTracker\obj\Debug\netcoreapp2.0\PackerTracker.csprojResolveAssemblyReference.cache
+C:\Users\akure\source\repos\Lab19-Unit-Tests\lab19-brandon\PackerTracker\PackerTracker\obj\Debug\netcoreapp2.0\PackerTracker.csproj.CoreCompileInputs.cache
+C:\Users\akure\source\repos\Lab19-Unit-Tests\lab19-brandon\PackerTracker\PackerTracker\obj\Debug\netcoreapp2.0\PackerTracker.AssemblyInfoInputs.cache
+C:\Users\akure\source\repos\Lab19-Unit-Tests\lab19-brandon\PackerTracker\PackerTracker\obj\Debug\netcoreapp2.0\PackerTracker.AssemblyInfo.cs
+C:\Users\akure\source\repos\Lab19-Unit-Tests\lab19-brandon\PackerTracker\PackerTracker\bin\Debug\netcoreapp2.0\PackerTracker.pdb
+C:\Users\akure\source\repos\Lab19-Unit-Tests\lab19-brandon\PackerTracker\PackerTracker\obj\Debug\netcoreapp2.0\PackerTracker.dll
+C:\Users\akure\source\repos\Lab19-Unit-Tests\lab19-brandon\PackerTracker\PackerTracker\obj\Debug\netcoreapp2.0\PackerTracker.pdb

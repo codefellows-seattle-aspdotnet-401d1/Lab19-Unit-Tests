@@ -1,0 +1,20 @@
+﻿@model IEnumerable<PackerPlanner.Models.Destination>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>The things are here!</h2>
+
+@foreach (var d in Model)
+{
+    <div>
+        <h3>@d.LocationName</h3>
+        <p>@d.Country</p>
+        <ul>
+            @foreach (var l in d.RequiredItems)
+            {
+                <li>@l</li>
+            }
+        </ul>
+    </div>
+}

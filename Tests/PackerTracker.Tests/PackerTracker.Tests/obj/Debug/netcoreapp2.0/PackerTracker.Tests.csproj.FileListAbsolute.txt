@@ -1,0 +1,14 @@
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\bin\Debug\netcoreapp2.0\PackerTracker.Tests.deps.json
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\bin\Debug\netcoreapp2.0\PackerTracker.Tests.runtimeconfig.json
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\bin\Debug\netcoreapp2.0\PackerTracker.Tests.runtimeconfig.dev.json
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\bin\Debug\netcoreapp2.0\PackerTracker.Tests.dll
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\bin\Debug\netcoreapp2.0\PackerTracker.Tests.pdb
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\obj\Debug\netcoreapp2.0\PackerTracker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\obj\Debug\netcoreapp2.0\PackerTracker.Tests.csproj.CoreCompileInputs.cache
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\obj\Debug\netcoreapp2.0\PackerTracker.Tests.AssemblyInfoInputs.cache
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\obj\Debug\netcoreapp2.0\PackerTracker.Tests.AssemblyInfo.cs
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\obj\Debug\netcoreapp2.0\PackerTracker.Tests.dll
+C:\Users\akure\source\repos\Lab19-Unit-Tests\Tests\PackerTracker.Tests\PackerTracker.Tests\obj\Debug\netcoreapp2.0\PackerTracker.Tests.pdb
