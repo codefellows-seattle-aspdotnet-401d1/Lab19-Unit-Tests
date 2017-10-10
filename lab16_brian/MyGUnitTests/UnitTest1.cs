@@ -16,7 +16,7 @@ namespace MyGUnitTests
             d.Dest = "Bar";
 
             //Assert
-            Assert.Equal("Not", d.Dest);
+            Assert.Equal("Bar", d.Dest);
         }
     }
 }

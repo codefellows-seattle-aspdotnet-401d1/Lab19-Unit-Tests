@@ -12,3 +12,5 @@ C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\obj\Debug\netcoreapp
 C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\obj\Debug\netcoreapp2.0\MyGUnitTests.AssemblyInfo.cs
 C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\obj\Debug\netcoreapp2.0\MyGUnitTests.dll
 C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\obj\Debug\netcoreapp2.0\MyGUnitTests.pdb
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\bin\Debug\netcoreapp2.0\lab16_brian.dll
+C:\projects\401d1\Labs\lab19_brian\lab16_brian\MyGUnitTests\bin\Debug\netcoreapp2.0\lab16_brian.pdb
