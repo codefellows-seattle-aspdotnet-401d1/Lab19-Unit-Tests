@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Lab19erik.Model.Location>
+
+@{
+    Layout = null;  
+}
+
+
+@foreach (var p in Model)
+{
+    <div>
+        <h3>@p.Name</h3>
+        <ul>
+            <li>LAt: @p.Latitude</li>
+            <li>Long: @p.Longitede</li>
+            <li>Climate: @p.WeatherType</li>
+        </ul>
+    </div>
+
+}
