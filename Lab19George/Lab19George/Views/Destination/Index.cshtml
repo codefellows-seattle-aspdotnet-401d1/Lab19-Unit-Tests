@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Lab19George.Models.Destination>
+
+@{
+    ViewData["Title"] = "Destination";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Destination List</h3>
+
+@foreach (var d in Model)
+{
+    <div>
+        <p><strong>@d.City</strong>, @d.Country, @d.Language, @d.Climate</p>
+    </div>
+}
